@@ -8,14 +8,8 @@ public class TEST_1 {
 		
 		System.out.println("TC01");
 		System.out.println("TC01");
-		System.out.println("TC01");
-		System.out.println("TC01");
-		System.out.println("TC01");
-		System.out.println("TC01");
-		System.out.println("TC01");
-		System.out.println("TC01");
-		System.out.println("TC01");
-		System.out.println("TC01");
+		
+
 			
 		
 	}
